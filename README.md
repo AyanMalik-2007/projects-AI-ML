@@ -15,7 +15,7 @@ The project allows you to:
 
 ## 🗂 Project Structure
 
-```
+
 
 credit-risk-ml/
 ├── src/
