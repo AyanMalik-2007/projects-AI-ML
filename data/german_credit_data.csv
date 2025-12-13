@@ -1,0 +1,101 @@
+Sex,Housing,Saving accounts,Checking account,Purpose,Credit amount,Duration,Risk
+male,free,quite rich,little,business,4864,51,bad
+female,rent,quite rich,no,education,4965,39,bad
+male,rent,quite rich,rich,radio/TV,1135,21,good
+male,rent,quite rich,moderate,car,2193,52,good
+male,rent,quite rich,no,car,2182,42,good
+female,rent,moderate,little,education,619,35,bad
+male,rent,moderate,rich,radio/TV,1330,27,bad
+male,free,rich,no,radio/TV,4175,26,good
+male,free,quite rich,no,business,1869,35,good
+female,rent,moderate,rich,radio/TV,1240,40,bad
+male,free,rich,no,radio/TV,616,15,bad
+male,own,quite rich,rich,radio/TV,3338,52,good
+male,rent,little,moderate,furniture,1650,58,good
+male,own,rich,rich,business,2431,16,bad
+female,own,moderate,rich,car,1512,26,good
+male,rent,little,rich,education,2164,28,good
+female,free,little,no,car,1581,38,good
+female,own,little,no,business,1012,44,bad
+female,rent,rich,rich,education,3349,33,bad
+male,own,moderate,no,business,1059,20,bad
+female,own,little,little,radio/TV,4172,52,bad
+male,own,quite rich,little,education,3843,23,bad
+female,own,little,no,radio/TV,4570,51,bad
+female,free,little,no,car,1970,28,bad
+female,own,rich,rich,car,1080,25,good
+female,own,rich,moderate,education,2794,16,good
+female,own,moderate,no,education,3647,22,good
+female,free,quite rich,little,business,4749,52,good
+female,own,rich,rich,business,2179,39,good
+female,own,little,no,radio/TV,4006,15,good
+male,free,moderate,little,education,3244,44,good
+male,free,little,little,car,3856,22,bad
+female,free,little,moderate,business,4545,15,bad
+female,own,rich,rich,business,1743,12,good
+female,free,moderate,rich,car,3618,10,good
+male,free,quite rich,moderate,business,2641,31,bad
+female,own,quite rich,moderate,radio/TV,3559,17,good
+male,free,rich,rich,education,3459,34,good
+male,own,rich,rich,car,2765,55,bad
+male,rent,moderate,no,education,2979,22,good
+male,free,quite rich,no,business,2135,50,bad
+male,rent,quite rich,moderate,business,2257,19,good
+female,own,quite rich,no,car,4952,56,bad
+female,free,little,little,radio/TV,2570,8,bad
+female,own,quite rich,no,furniture,3349,38,bad
+female,rent,little,no,car,3751,15,good
+female,own,moderate,little,furniture,4230,28,bad
+male,free,little,moderate,furniture,2989,55,good
+female,free,moderate,little,radio/TV,2131,24,good
+female,rent,quite rich,no,furniture,3316,39,good
+male,own,quite rich,moderate,furniture,1515,56,good
+female,free,moderate,no,radio/TV,1848,26,bad
+male,rent,rich,little,furniture,3587,19,bad
+female,free,moderate,little,furniture,3339,42,good
+male,free,rich,no,furniture,835,48,good
+female,own,little,rich,car,1395,56,bad
+female,free,little,rich,car,4046,45,good
+male,own,little,little,car,1351,42,bad
+male,free,quite rich,little,radio/TV,2187,17,good
+male,rent,little,rich,business,2431,34,good
+male,free,rich,rich,furniture,4246,8,bad
+male,own,little,no,furniture,2927,38,good
+male,own,moderate,no,radio/TV,2068,26,bad
+male,rent,moderate,rich,furniture,4500,32,good
+male,free,quite rich,no,car,3238,46,good
+female,free,moderate,no,business,3998,14,good
+female,rent,rich,moderate,education,4413,21,bad
+male,free,little,no,furniture,1566,50,good
+female,free,quite rich,little,car,4880,15,good
+female,own,little,no,education,2944,12,good
+female,free,little,no,business,4607,13,good
+female,free,rich,rich,education,3873,47,bad
+male,rent,moderate,little,car,4469,20,bad
+female,rent,moderate,no,education,3046,41,good
+male,own,little,no,radio/TV,1253,10,bad
+female,free,quite rich,moderate,education,2582,49,good
+female,free,moderate,no,furniture,3274,16,good
+female,free,quite rich,no,furniture,3396,43,good
+male,own,moderate,moderate,radio/TV,4685,45,bad
+female,own,quite rich,rich,car,1275,12,bad
+male,rent,rich,no,furniture,2125,53,bad
+female,own,quite rich,moderate,business,3569,30,bad
+male,free,rich,little,furniture,917,5,bad
+female,free,rich,rich,furniture,614,8,bad
+male,own,quite rich,little,car,1116,32,bad
+male,free,rich,little,education,4474,40,bad
+female,free,little,moderate,furniture,3767,41,bad
+male,own,rich,no,radio/TV,1325,22,good
+female,own,moderate,moderate,education,2016,11,bad
+female,free,quite rich,moderate,business,3646,51,bad
+female,free,little,moderate,car,912,48,bad
+female,free,quite rich,moderate,business,1228,4,bad
+female,rent,moderate,rich,education,3848,25,bad
+female,rent,moderate,no,education,3308,55,bad
+female,rent,moderate,little,education,1175,20,bad
+female,own,rich,little,business,3965,10,bad
+female,rent,rich,no,education,3004,28,bad
+female,own,quite rich,little,business,3467,48,bad
+female,own,quite rich,no,education,3286,7,bad
+male,rent,little,little,radio/TV,1622,39,good
