@@ -108,9 +108,3 @@ Classification Report:
 
 Ayan Malik — student, Machine Learning and Data Analytics project
 
-```
-
----
-
-Теперь у тебя есть весь README в одном блоке, который легко вставить в файл. Если нужно ещё что-то дополнить или изменить, дай знать!
-```
