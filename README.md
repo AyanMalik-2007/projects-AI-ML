@@ -1,5 +1,5 @@
 
-```markdown
+
 # Credit Risk ML Project
 
 ## 📖 Project Description
@@ -16,7 +16,7 @@ The project allows you to:
 ## 🗂 Project Structure
 
 
-
+```markdown
 credit-risk-ml/
 ├── src/
 │   ├── train.py        # Script to train the model
