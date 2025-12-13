@@ -13,7 +13,7 @@ The project allows you to:
 
 ---
 
-## 🗂 Project Structure
+##  Project Structure
 
 
 ```markdown
@@ -31,7 +31,7 @@ credit-risk-ml/
 
 ---
 
-## ⚙️ Installation & Dependencies
+##  Installation & Dependencies
 
 Recommended: **Python 3.10+**
 
@@ -52,7 +52,7 @@ joblib
 
 ---
 
-## 🚀 How to Run
+##  How to Run
 
 ### 1. Train the model
 
@@ -81,7 +81,7 @@ python3 src/predict.py
 
 ---
 
-## 🧩 Notes
+##  Notes
 
 * If the `model/` folder does not exist, it will be created automatically when running `train.py`
 * Dataset must be located at `data/german_credit_data.csv`
@@ -104,7 +104,7 @@ Classification Report:
 
 ---
 
-## 🔗 Author
+## Author
 
 Ayan Malik — student, Machine Learning and Data Analytics project
 
